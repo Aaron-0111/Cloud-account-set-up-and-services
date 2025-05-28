@@ -1,9 +1,9 @@
 
 # EX NO: Cloud-account-set-up-and-services
 ~~~
-Name :JOTHI GANESH P
+Name :AARON RAJESH R
 
-Reg no: 212224240065
+Reg no: 212223100001
 ~~~
 # Aim:
 To create an cloud account in AWS and to explore all of its services.
